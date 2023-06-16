@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\vykro\Desktop\crawl\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3501714628.index
+3322827934.index
+1783691685.index
+1875541151.index
+3184151875.index
